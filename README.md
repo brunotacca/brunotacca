@@ -3,7 +3,7 @@
 ![Tacca's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunotacca&count_private=true&show_icons=true&theme=nightowl)
 
 
-- 🔭 I’m currently working my master's project and this README 🤔.
+- 🔭 I’m currently working on my master's project and this README 🤔.
 
 
 <!--
