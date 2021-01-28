@@ -1,4 +1,3 @@
-## Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21">
 <p align="center">
  <h2 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21"> How are you doing?</h2>
 </p>
