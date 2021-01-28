@@ -3,8 +3,8 @@
 </p>
 <p align="center">
   <a href="README.md"><img src="images/us-flag.png" height="13"> English</a> | 
-  <a href="README_fr.md"><a href="readme.md"><img src="images/fr-flag.png" height="13"> Français</a> |  
-  <a href="README_pt.md"><a href="readme.md"><img src="images/br-flag.png" height="13"> Portugês</a>
+  <a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a> |  
+  <a href="README_pt.md"><img src="images/br-flag.png" height="13"> Portugês</a>
 </p>
 
 <p align="center">
