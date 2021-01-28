@@ -6,6 +6,7 @@
   <a href="readme_fr.md">Français</a> |  
   <a href="readme_pt.md">Portugês</a>
 </p>
+
 <p align="center">
 Code magician. Researcher. Always thirsty for knowledge.
 </p>
