@@ -2,9 +2,9 @@
  <h2 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21"> How are you doing?</h2>
 </p>
 <p align="center">
-  <a href="readme.md">English </a>
-  <a href="readme_fr.md">Français </a>
-  <a href="readme_pt.md">Portugês </a>
+  <a href="readme.md">English</a> | 
+  <a href="readme_fr.md">Français</a>&ndsp;  |  
+  <a href="readme_pt.md">Portugês</a>
 </p>
 <p align="center">
 Code magician. Researcher. Always thirsty for knowledge.
