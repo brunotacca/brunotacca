@@ -1,15 +1,16 @@
-<!--
+## Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21">
 <p align="center">
- <h2 align="center">GitHub Readme Stats</h2>
+ <h2 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21"> How are you doing?</h2>
 </p>
--->
 <p align="center">
   <a href="readme.md">English </a>
   <a href="readme_fr.md">Français </a>
   <a href="readme_pt.md">Portugês </a>
 </p>
+<p align="center">
+Code magician. Researcher. Always thirsty for knowledge.
+</p>
 
-### Hi there 👋
 
 <p align="center">
 <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
@@ -19,7 +20,7 @@
 </p>
 
 
-🔭 I’m currently working on my master's project and this README 🤔.
+🔭 I’m currently working on a lot of stuff, including this README 🤔.
 
 
 <!--
