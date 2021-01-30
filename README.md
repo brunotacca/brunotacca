@@ -1,18 +1,16 @@
+<h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21"> How are you doing?</h2>
+
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Portugês</a></td></tr>
 </table>
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21"> How are you doing?
+#### Researcher. Always seeking knowledge.
 
-### Researcher. Always seeking knowledge.
+#### Java & Flutter Developer.
 
-### Java & Flutter Developer.
-
-### I’m currently working on a lot of stuff, including this README 🤔.
-
-<hr/>
+#### I’m currently working on a lot of stuff, including this README 🤔.
 
 ## ⚙️ &nbsp;GitHub Analytics
 
