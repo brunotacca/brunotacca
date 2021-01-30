@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21"> How are you doing?</h2>
+<h1 align="center"> Hi there! <img src="images/wave.gif" width="21"> How are you doing?</h1>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
@@ -12,7 +12,7 @@
 
 #### I’m currently working on a lot of stuff, including this README 🤔.
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Statistics
 
 <p align="center">
 <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
