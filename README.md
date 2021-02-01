@@ -12,6 +12,8 @@
 
 #### I’m currently working on a lot of stuff, including this README 🤔.
 
+Programming since 2004. 13+ years of expenrience in enterprise wide systems development.
+
 ## ⚙️ &nbsp;GitHub Statistics
 
 <p align="center">
