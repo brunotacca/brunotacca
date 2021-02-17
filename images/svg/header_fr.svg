@@ -172,7 +172,7 @@ g.typingUnderline rect {
 <rect class="headerRect" width="70" height="7.3" rx="1" x="20" y="16.8"/>
 
 <path id="nameTyping">
-  <animate attributeName="d" from="m38,-6 h0" to="m38,-6 h100" dur="5.0s" begin="0s" fill="freeze"/>
+  <animate attributeName="d" from="m38,-6 h0" to="m38,-6 h100" dur="8.0s" begin="0s" fill="freeze"/>
 </path>
 
 <text font-family="Courier New" font-size=".22em" fill="white"
