@@ -135,14 +135,14 @@ svg {
 
 
 
-<text x="99%" y="-35%" font-family="Helvetica" font-size=".22em" fill="white" font-weight="bold"
+<text x="99%" y="-33%" font-family="Helvetica" font-size=".22em" fill="white" font-weight="bold"
 text-anchor="end" alignment-baseline="hanging" > 
-    Hi there! How are you doing?
+    E aí! Tudo bom?
 </text>
 
-<text x="98.5%" y="-21%" font-family="Helvetica" font-size=".12em" fill="black"
+<text x="98.5%" y="-20%" font-family="Helvetica" font-size=".12em" fill="black"
 text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
-    Nice to meet you, call me Tacca.
+    Bom te conhecer, sou o Tacca.
 </text>
 
 </svg>

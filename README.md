@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! <img src="images/wave.gif" width="21"> How are you doing?</h1>
+<img src="images/svg/header_en.svg"></img>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>

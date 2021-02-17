@@ -1,4 +1,4 @@
- <h1 align="center">Bonjour! <img src="images/wave.gif" width="21"> Ça va bien?</h1>
+<img src="images/svg/header_fr.svg"></img>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>

@@ -1,0 +1,148 @@
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<style>
+
+svg text{
+  transform-origin: 50% 50%;
+  transform: translate(0%, -40%) rotate(180deg);
+}
+
+svg {
+  width:100vw;
+  position:fixed;
+  top:-5px;
+  transform: rotate(180deg);
+  overflow:visible;
+}
+
+.wave {
+  animation: wave 3s linear;
+  animation-iteration-count:infinite;
+  fill: #4478e3;  
+}
+
+.drop {
+  fill: #4478e3;
+  xfill: #99000055;
+  animation: drop 8.2s linear infinite normal;
+  stroke: #4478e3;
+  stroke-width: 0.5;
+  transform: translateY(25px) ;
+  transform-box: fill-box;
+  transform-origin: 50% 100%;
+}
+.drop1 {
+  
+}
+.drop2 {
+  animation-delay: 3s;
+  animation-duration:5s;
+}
+.drop3 {
+  animation-delay: -2s;
+  animation-duration:5.4s;
+}
+.drop4 {
+  animation-delay: 1.7s;
+  animation-duration:2.4s;
+}
+.drop5 {
+  animation-delay: 2.7s;
+  animation-duration:5.1s;
+}
+.drop6 {
+  animation-delay: -2.1s;
+  animation-duration:5.2s;
+}
+.gooeff {
+  	filter: url(#goo);
+}
+#wave2 {
+  animation-duration:5s;
+  animation-direction: reverse;
+  opacity: .6
+}
+#wave3 {
+  animation-duration: 7s;
+  opacity:.3;
+}
+@keyframes drop {
+  0% {
+    transform: translateY(25px); 
+  }
+  30% {
+    transform: translateY(-10px) scale(.1);
+  }
+  30.001% {
+    transform: translateY(25px) scale(1); 
+  }
+  70% {
+    transform: translateY(25px); 
+  }
+  100% { 
+    transform: translateY(-15px) scale(.1);  
+  }
+}
+@keyframes wave {
+  to {transform: translateX(-100%);}
+}
+</style>
+
+
+
+ <defs> 
+    <filter id="goo">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
+      <feColorMatrix in="blur" mode="matrix" values="
+           1 0 0 0 0  
+           0 1 0 0 0  
+           0 0 1 0 0  
+           0 0 0 13 -9" result="goo" />
+      <xfeBlend in="SourceGraphic" in2="goo" />
+  	</filter>
+   
+    <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+  </defs> 
+
+ 
+  <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
+  <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
+ 
+  <g class="gooeff" filter="url(#goo)">
+    <circle class="drop drop1" cx="29" cy="2" r="8.8"  />
+    <circle class="drop drop2" cx="35" cy="2.5" r="7.5"  />
+    <circle class="drop drop3" cx="26" cy="2.8" r="9.2"  />
+    <circle class="drop drop4" cx="14" cy="2" r="8.8"  />
+    <circle class="drop drop5" cx="22" cy="2.5" r="7.5"  />
+    <circle class="drop drop6" cx="6" cy="2.8" r="9.2"  />
+      
+    <circle class="drop drop1" cx="5" cy="4.4" r="8.8"  />
+    <circle class="drop drop2" cx="15" cy="4.1" r="7.5"  />
+    <circle class="drop drop3" cx="8" cy="3.8" r="9.2"  />
+    <circle class="drop drop4" cx="3" cy="4.4" r="8.8"  />
+    <circle class="drop drop5" cx="7" cy="4.1" r="7.5"  />
+    <circle class="drop drop6" cx="10" cy="4.3" r="9.2"  />
+    
+    <circle class="drop drop1" cx="1.2" cy="5.4" r="8.8"  />
+    <circle class="drop drop2" cx="5.2" cy="5.1" r="7.5"  />
+    <circle class="drop drop3" cx="0.2" cy="5.3" r="9.2"  />
+    <circle class="drop drop4" cx="3.2" cy="5.4" r="8.8"  />
+    <circle class="drop drop5" cx="14.2" cy="5.1" r="7.5"  />
+    <circle class="drop drop6" cx="17.2" cy="4.8" r="9.2"  />
+      
+    <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
+  </g>  
+
+
+
+<text x="99%" y="-33%" font-family="Helvetica" font-size=".22em" fill="white" font-weight="bold"
+text-anchor="end" alignment-baseline="hanging" > 
+    Hi there! How are you doing?
+</text>
+
+<text x="98.5%" y="-20%" font-family="Helvetica" font-size=".12em" fill="black"
+text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
+    Nice to meet you, call me Tacca.
+</text>
+
+</svg>
