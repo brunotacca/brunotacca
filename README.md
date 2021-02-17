@@ -6,6 +6,13 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
+### Hi there <img src="images/wave.gif" width="18">, I am from Brazil.
+- Currently working as a Tech Lead at [UNESP](https://unesp.br/) (São Paulo State University)
+- Love to science and innovation.
+- Passionate with problem solving and daily routines automation.
+- :school: Currently researching human kinematics, inertial sensors, and sensor fusion in order to achieve a Master's degree.
+- Coding since 2004 with 13+ years of expenrience in enterprise wide software development.
+
 #### Researcher. Always seeking knowledge.
 
 #### Java & Flutter Developer.
