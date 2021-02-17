@@ -49,5 +49,5 @@
 </details>
 
 <p align="center">
-[![HitCount](http://hits.dwyl.com/brunotacca/brunotacca.svg)](http://hits.dwyl.com/brunotacca/brunotacca)
+<img src="http://hits.dwyl.com/brunotacca/brunotacca"></img>
 </p>
