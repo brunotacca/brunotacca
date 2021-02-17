@@ -14,6 +14,13 @@
 
 Programming since 2004. 13+ years of expenrience in enterprise wide systems development.
 
+### 👨🏻‍💻 &nbsp;About Me
+
+### 🛠 &nbsp;Tech Stack
+
+### 🤝🏻 &nbsp;Connect with Me
+
+
 ## ⚙️ &nbsp;GitHub Statistics
 
 <p align="center">
