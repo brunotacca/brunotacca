@@ -51,3 +51,5 @@
 <p align="center">
 <img src="http://hits.dwyl.com/brunotacca/brunotacca"></img>
 </p>
+
+[![HitCount](http://hits.dwyl.com/brunotacca/brunotacca.svg)](http://hits.dwyl.com/brunotacca/brunotacca)
