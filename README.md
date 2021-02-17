@@ -10,15 +10,14 @@
 
 ### :space_invader: &nbsp;About Me
 
-:technologist: Currently working as a Tech Lead at [UNESP](https://unesp.br/) (São Paulo State University)
+:technologist: &nbsp;Currently working as a Tech Lead at [UNESP](https://unesp.br/) (São Paulo State University) \
+:heartbeat: &nbsp;Love to science and innovation.\
 
-:heartbeat: Love to science and innovation.
+:seedling: &nbsp;Passionate with problem solving and daily routines automation.\
 
-:seedling: Passionate with problem solving and daily routines automation.
+:writing_hand: &nbsp;Currently researching human kinematics, inertial sensors, and sensor fusion.\
 
-:writing_hand: Currently researching human kinematics, inertial sensors, and sensor fusion in order to achieve a Master's degree.
-
-:hammer_and_wrench: Coding since 2004 with 13+ years of experience in enterprise wide software development.
+:hammer_and_wrench: &nbsp;Coding since 2004 with 13+ years of experience in enterprise wide software development.
 
 ### :handshake:	 &nbsp;Connect with Me
 
