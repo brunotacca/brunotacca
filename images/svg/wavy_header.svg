@@ -1,10 +1,6 @@
 <svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
 
-.body {
-  --col-deepblue: #4478e3;
-}
-
 .author {
   color:#fff;
   text-decoration:none;
@@ -39,10 +35,10 @@ svg {
   
 }
 .drop {
-  fill: var(--col-deepblue);
+  fill: #4478e3;
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
-  stroke: var(--col-deepblue);
+  stroke: #4478e3;
   stroke-width: 0.5;
   transform: translateY(25px) ;
   transform-box: fill-box;
