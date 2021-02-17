@@ -16,8 +16,6 @@
 &nbsp;&nbsp;:writing_hand: &nbsp;Currently researching human kinematics, inertial sensors, and sensor fusion.\
 &nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 13+ years of experience in enterprise wide software development.
 
-### :handshake:	 &nbsp;Connect with Me
-
 <p align='center'>
   <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,3 +47,7 @@
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=brunotacca&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotacca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
+
+<p align="center">
+[![HitCount](http://hits.dwyl.com/brunotacca/brunotacca.svg)](http://hits.dwyl.com/brunotacca/brunotacca)
+</p>
