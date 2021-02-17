@@ -2,7 +2,7 @@
 
 <style>
 
-svg text{
+svg text {
   transform-origin: 50% 50%;
   transform: translate(0%, -40%) rotate(180deg);
 }
@@ -15,10 +15,27 @@ svg {
   overflow:visible;
 }
 
+rect.headerRect {
+  fill: black;
+  fill-opacity: 20%;
+}
+rect.headerRect:hover {
+  fill: yellow;
+  fill-opacity: 50%;
+}
+
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
   fill: #4478e3;  
+}
+
+.wave:hover {
+  fill: #0066cc;
+}
+
+.drop:hover {
+  fill: #C9FFE5;
 }
 
 .drop {
@@ -86,6 +103,24 @@ svg {
 @keyframes wave {
   to {transform: translateX(-100%);}
 }
+@keyframes blink {
+  0% {
+    fill: #FFFFFF;
+  }
+  100% {
+    fill: none;
+  }
+}
+@keyframes underline_move {
+  to {
+    transform: translateX(-39px);
+  }}
+
+g.typingUnderline rect {
+   animation: 
+    blink 0.5s infinite, 
+    underline_move 4s steps(24, end) forwards;
+}
 </style>
 
 
@@ -134,15 +169,35 @@ svg {
   </g>  
 
 
+<rect class="headerRect" width="70" height="7.3" rx="1" x="20" y="16.8"/>
 
-<text x="99%" y="-33%" font-family="Helvetica" font-size=".22em" fill="white" font-weight="bold"
-text-anchor="end" alignment-baseline="hanging" > 
-    Bonjour! Ça va bien?
+<path id="nameTyping">
+  <animate attributeName="d" from="m40,-6 h0" to="m40,-6 h100" dur="10.8s" begin="0s" fill="freeze"/>
+</path>
+
+<text font-family="Courier New" font-size=".22em" fill="white"
+      font-weight="bold" letter-spacing="2">
+  <textPath xlink:href="#nameTyping" >
+      BRUNO TACCA
+  </textPath>
 </text>
 
-<text x="98.5%" y="-20%" font-family="Helvetica" font-size=".12em" fill="black"
-text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
-    Enchanté, tu peux m'appeler Tacca.
+<g class="typingUnderline">
+  <rect fill="#FFFFFF" x="69" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
+      <animate attributeName="visible" from="hidden" to="visible" dur="1s" fill="freeze"/>
+  </rect>
+</g>
+
+<path id="descriptionTyping">
+  <animate attributeName="d" from="m30,-3 h0" to="m30,-3 h100" 
+           dur="5.8s" begin="0s" fill="freeze"/>
+</path>
+
+<text x="64" font-family="Helvetica" font-size=".12em" fill="white"
+     text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
+  <textPath xlink:href="#descriptionTyping" >
+      Chercheur, Ingénieur Logiciel, Responsable Technique et Développeur.
+  </textPath>
 </text>
 
 </svg>
