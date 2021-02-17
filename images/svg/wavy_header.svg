@@ -1,39 +1,26 @@
 <svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <style>
 
-.author {
-  color:#fff;
-  text-decoration:none;
-  position:fixed;
-  top:0px;
+<style>
+
+svg text{
+  transform-origin: 50% 50%;
+  transform: translate(0%, -40%) rotate(180deg);
 }
 
 svg {
   width:100vw;
   position:fixed;
-  top:0px;
+  top:-5px;
   transform: rotate(180deg);
-}
-
-/* .header div {
-  background-color: var(--col-deepblue);
-  margin: 0px 0px -5px 0px;
-  padding:0px;
-  color: #fff;
-  text-align:center;
-} */
-
-svg {
-  width:100%;
   overflow:visible;
 }
 
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #4478e3;
-  
+  fill: #4478e3;  
 }
+
 .drop {
   fill: #4478e3;
   xfill: #99000055;
@@ -101,6 +88,8 @@ svg {
 }
 </style>
 
+
+
  <defs> 
     <filter id="goo">
       <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
@@ -143,5 +132,9 @@ svg {
       
     <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
   </g>  
+
+<text x="35%" y="-6" font-size=".20em" fill="white"> 
+    Hi there! How are you doing?
+</text>
 
 </svg>

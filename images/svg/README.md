@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/brunotacca/brunotacca/v2/images/svg/wavy_header.svg"></img>
+<img src="wavy_header.svg"></img>
