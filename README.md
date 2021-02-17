@@ -11,10 +11,10 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;:technologist: &nbsp;Currently working as a Tech Lead at [UNESP](https://unesp.br/) (São Paulo State University) \
-&nbsp;&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Love to science and innovation.\
-:seedling: &nbsp;Passionate with problem solving and daily routines automation.\
-:writing_hand: &nbsp;Currently researching human kinematics, inertial sensors, and sensor fusion.\
-:hammer_and_wrench: &nbsp;Coding since 2004 with 13+ years of experience in enterprise wide software development.
+&nbsp;&nbsp;:heartbeat: &nbsp;Love to science and innovation.\
+&nbsp;&nbsp;:seedling: &nbsp;Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching human kinematics, inertial sensors, and sensor fusion.\
+&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 13+ years of experience in enterprise wide software development.
 
 ### :handshake:	 &nbsp;Connect with Me
 
