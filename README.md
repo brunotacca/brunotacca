@@ -26,15 +26,14 @@
 
 ### :computer: &nbsp;Main Tech Stack
 
+#TODO badges
+
+<hr/>
+
 <details>
   <summary><b>:brain: &nbsp;Other tech knowledge</b></summary>
   <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=brunotacca&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotacca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
+  #TODO badges
 </details>
 
 <details>
@@ -48,8 +47,9 @@
     </p>
 </details>
 
-<p align="center">
-<img src="http://hits.dwyl.com/brunotacca/brunotacca"></img>
-</p>
+<hr/>
+<br/>
 
-[![HitCount](http://hits.dwyl.com/brunotacca/brunotacca.svg)](http://hits.dwyl.com/brunotacca/brunotacca)
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic"><img>
+</p>
