@@ -1,3 +1,4 @@
+<header>
 <svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
 
@@ -12,14 +13,14 @@
   top:0px;
 }
 
-.header {
+header {
   width:100vw;
   position:fixed;
   top:0px;
   transform: rotate(180deg);
 }
 
-.header div {
+header div {
   background-color: var(--col-deepblue);
   margin: 0px 0px -5px 0px;
   padding:0px;
@@ -149,3 +150,4 @@ svg {
 
 </svg>
 
+</header>
