@@ -3,10 +3,8 @@
   
 <svg viewBox="0 0 115 25">
   <style>
-@import url("https://fonts.googleapis.com/css?family=Lato:400,400i,700");
 
 body {
-  font-family: Lato, sans-serif;
   --col-deepblue: #4478e3;
 }
 a {
