@@ -1,1 +1,0 @@
-<img src="wavy_header.svg"></img>
