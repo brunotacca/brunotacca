@@ -6,15 +6,6 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-<!-- 
-Chercheur. Toujours à la recherche de connaissances.
-Développeur Java & Flutter.
-Maintenant je travaille sur beaucoup de choses, et cette README aussi 🤔.
-## ⚙️ &nbsp;Les statistiques de GitHub 
--->
-
-<h2 align=center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bonjour! <img src="images/wave.gif" width="20"> Ça va bien?</h2>
-
 ### :space_invader: &nbsp;À propos de moi 
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Tech Lead at [UNESP](https://unesp.br/) (São Paulo State University) \
