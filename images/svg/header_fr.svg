@@ -148,6 +148,8 @@ g.typingUnderline rect {
   <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
   <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
  
+  <rect fill="#30363d" x="0" y="1" width="100%" height="0.4" ></rect>
+
   <g class="gooeff" filter="url(#goo)">
     <circle class="drop drop1" cx="29" cy="2" r="8.8"  />
     <circle class="drop drop2" cx="35" cy="2.5" r="7.5"  />
@@ -205,18 +207,19 @@ g.typingUnderline rect {
   </textPath>
 </text>
 
-<text x="19.5" y="12.5" font-family="Helvetica" font-size=".22em" fill="white"
-      font-weight="bold" text-anchor="end"> 
+<text x="2" y="12" font-family="Helvetica" font-size=".22em"
+      fill="#AAA" font-weight="bold"> 
       Bonjour!
 </text>
 
-<text x="28" y="12.5" font-family="Helvetica" font-size=".22em" fill="white"
-      font-weight="bold"> 
+<text x="22" y="12" font-family="Helvetica" font-size=".22em"
+      fill="#AAA" font-weight="bold"> 
       Ça va bien?
 </text>
 
+
 <image style="overflow:visible;clip-path:url(#mask);" 
-width="4" x="22.5" y="9"
+width="4" x="17" y="8.5"
 xlink:href="data:image/gif;base64,R0lGODlh8QDqAPcAANqnNNuoNNuoNdypNt2qN9upOd6rON+sOduqPNysP+CsN+GtN+SvN+CtOuGuPOKvPeWwOeaxOuOwPuSxP+mzOeu1O+mzPe63PO+5P/O7PvO7P/O8P/S8P9ysQd2vR96wSt6xTt+zUeWyQOazQee0Qum1Qei1Q+u3Q+23QOq3Reu4Ru25RO+6RO+7Rey5SO26Se67Su+8S/O7QvO9Q/S8QfG7RfC8R/a/Rfa/RvO+Sfa/SPC9TPO/TPK/TuC0VOC1V+C2WOG2WuG4XeK6Y+O8ZuO9aOS+a+S/b/bARvfASPfCSvPAT/TATfXBTvjCS/jDTPnDTfnETfnFTvrFT/TBUPbDUfbDUvfEU/jEUfvGUvrHU/vHU/jFVPrHVvvIVvzIVPzJVf3JVv3KV/vIWP3KWP7LWP7LW//MWf/MW//NXP/NXeXBcuXCdebDd+fFfOjHgejIhPnFU/3JV/rGUduoN92tQ/zJWfG+TfnGVOOvOvvHUtqnNe67RfXASfnFT+OuOPG5Pd+rNvnGVfC6QuK5X+ezPPW+Q/XCUfS+R+u2QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BA0EAC0AIf8LTkVUU0NBUEUyLjADAQAAACH/C3htcCBkYXRheG1w/z94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjYtYzE0MCA3OS4xNjA0NTEsIDIwMTcvMDUvMDYtMDE6MDg6MjEgICAgICAgICI+PHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3Lncub3JnLzE5OTkvMDIvMjItcm
 RmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJmOmFib3V0PSIiIP94bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bW5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvcykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Qjc3OTBFMzAxMjcxMTFFOUFEQjVDRDdCQkU2MTD/RTU3IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkI3NzkwRTMxMTI3MTExRUFEQjVDRDdCQkU2MTBFNTciPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieHAuaWlkOkI3NzkwRTJFMTI3MTExRTlBREI1Q0Q3QkJFNjEwRTU3IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkI3NzkwRTJGMTI3MTExRTlBREI1Q0Q3QkJFNjEwRTU3Ii8+IDwvcmRmOkRzY3JpcHRpb24+ID
