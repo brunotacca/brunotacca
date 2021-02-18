@@ -8,12 +8,12 @@
 
 ### :space_invader: &nbsp;À propos de moi 
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Tech Lead at [UNESP](https://unesp.br/) (São Paulo State University) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love to science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching human kinematics, inertial sensors, and sensor fusion.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 10+ years of experience in enterprise wide software development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:, Kali :service_dog:, and Maia :service_dog: .
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp; Travaille actuellement comme Responsable Technique à l'[UNESP](https://unesp.br/) (Université d'État de São Paulo).\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amour pour la science et l'innovation.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionné par la résolution de problèmes et l'automatisation des routines quotidiennes.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Actuellement je recherche sur la cinématique humaine, capteurs inertiels et la fusion de capteurs.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Je code depuis 2004 avec plus de 10 ans d'expérience dans le développement de logiciels à l'échelle de l'entreprise.\
+&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;J'habite au Brésil avec ma charmante épouse :two_hearts:, Kali :service_dog: et Maia :service_dog:.
 
 <p align="center">
   <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,7 +29,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;MAIN TECH KNOWLEDGE</b></summary>
+  <summary><b>:computer: &nbsp;Principales connaissances technologiques</b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
@@ -102,7 +102,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 -->
 
 <details>
-  <summary><b>:brain: &nbsp;Other tech knowledge, always learning</b></summary>
+  <summary><b>:brain: &nbsp;Autres connaissances, toujours entrain d'apprendre</b></summary>
   <br/>
 
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
@@ -139,7 +139,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;Les statistiques de GitHub</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
