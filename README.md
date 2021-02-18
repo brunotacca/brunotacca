@@ -6,7 +6,7 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-<h2 align=center>Hi there <img src="images/wave.gif" width="18">, I am from Brazil.</h2>
+<h2 align=center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi there! <img src="images/wave.gif" width="20"> How are you doing?</h2>
 
 ### :space_invader: &nbsp;About Me
 
@@ -15,6 +15,7 @@
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching human kinematics, inertial sensors, and sensor fusion.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 13+ years of experience in enterprise wide software development.
+&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely :cupid: wife, :service_dog:Kali and :service_dog: Maia.
 
 <p align="center">
   <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,7 +28,7 @@
 <hr/>
 
 <details>
-  <summary><span style="font-size:20px"><b>:brain: &nbsp;Main Tech Knowledge</b></span></summary>
+  <summary><span style="font-size:20px"><b>:computer: &nbsp;Main Tech Knowledge</b></span></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
