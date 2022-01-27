@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Líder Técnico na [UNESP](https://unesp.br/) (Universidade Estadual Paulista) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor pela ciência e inovação.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas e automação de rotinas diárias.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre cinemática do corpo humano, sensores inerciais e fusão de sensores.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre arquitetura de software, sensores inerciais e fusão de sensores.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2004 com mais de 10 anos de experiencia em desenvolvimento de software empresarial.\
 &nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Morando no Brasil com minha amada esposa :two_hearts:, Kali :service_dog: e Maia :service_dog:.
 
