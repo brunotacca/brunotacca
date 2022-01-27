@@ -202,7 +202,7 @@ g.typingUnderline rect {
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
-      Liderança, Arquitetura de Software, Desenvolvimento, Ciência e Tecnologia.
+      Liderança, Arquitetura de Software, Desenvolvimento, Ciência e&amp; Tecnologia.
   </textPath>
 </text>
 
