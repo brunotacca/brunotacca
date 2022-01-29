@@ -32,11 +32,11 @@ rect.headerRect:hover {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #4478e3;  
+  fill: #4447e3;  
 }
 
 .wave:hover {
-  fill: #0066cc;
+  fill: #5457ff;
 }
 
 .drop:hover {
@@ -44,10 +44,10 @@ rect.headerRect:hover {
 }
 
 .drop {
-  fill: #4478e3;
+  fill: #4447e3;
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
-  stroke: #4478e3;
+  stroke: #4447e3;
   stroke-width: 0.5;
   transform: translateY(25px) ;
   transform-box: fill-box;
@@ -151,21 +151,21 @@ g.typingUnderline rect {
   <rect fill="#AAA" fill-opacity="50%" x="0" y="1" width="100%" height="0.4" ></rect>
 
   <g class="gooeff" filter="url(#goo)">
-    <circle class="drop drop1" cx="29" cy="2" r="8.8"  />
+    <circle class="drop drop1" cx="95" cy="2" r="8.8"  />
     <circle class="drop drop2" cx="35" cy="2.5" r="7.5"  />
     <circle class="drop drop3" cx="26" cy="2.8" r="9.2"  />
     <circle class="drop drop4" cx="14" cy="2" r="8.8"  />
     <circle class="drop drop5" cx="22" cy="2.5" r="7.5"  />
     <circle class="drop drop6" cx="6" cy="2.8" r="9.2"  />
       
-    <circle class="drop drop1" cx="5" cy="4.4" r="8.8"  />
-    <circle class="drop drop2" cx="15" cy="4.1" r="7.5"  />
+    <circle class="drop drop1" cx="45" cy="4.4" r="8.8"  />
+    <circle class="drop drop2" cx="99" cy="4.1" r="7.5"  />
     <circle class="drop drop3" cx="8" cy="3.8" r="9.2"  />
     <circle class="drop drop4" cx="3" cy="4.4" r="8.8"  />
     <circle class="drop drop5" cx="7" cy="4.1" r="7.5"  />
     <circle class="drop drop6" cx="10" cy="4.3" r="9.2"  />
     
-    <circle class="drop drop1" cx="1.2" cy="5.4" r="8.8"  />
+    <circle class="drop drop1" cx="32" cy="5.4" r="8.8"  />
     <circle class="drop drop2" cx="5.2" cy="5.1" r="7.5"  />
     <circle class="drop drop3" cx="0.2" cy="5.3" r="9.2"  />
     <circle class="drop drop4" cx="3.2" cy="5.4" r="8.8"  />
@@ -179,7 +179,7 @@ g.typingUnderline rect {
 <rect class="headerRect" width="70" height="7.3" rx="1" x="20" y="16.8"/>
 
 <path id="nameTyping">
-  <animate attributeName="d" from="m38,-6 h0" to="m38,-6 h100" dur="10.0s" begin="0s" fill="freeze"/>
+  <animate attributeName="d" from="m38,-6 h0" to="m38,-6 h100" dur="9.4s" begin="0s" fill="freeze"/>
 </path>
 
 <text font-family="Courier New" font-size=".22em" fill="white"
@@ -203,7 +203,7 @@ g.typingUnderline rect {
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
-      Chercheur, Ingénieur Logiciel, Responsable Technique et DevOps.
+      Leadership, Architecture Logicielle, Développement, Science &amp; Technologie.
   </textPath>
 </text>
 
