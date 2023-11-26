@@ -8,10 +8,10 @@
 
 ### :space_invader: &nbsp;À propos de moi 
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp; Travaille actuellement comme Responsable Technique à l'[UNESP](https://unesp.br/) (Université d'État de São Paulo).\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp; Travaille actuellement comme Ingénieur Logiciel au [Cint](https://www.cint.com/). \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amour pour la science et l'innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionné par la résolution de problèmes et l'automatisation des routines quotidiennes.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Actuellement je recherche sur l'architecture logicielle, capteurs inertiels et la fusion de capteurs.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Actuellement je recherche sur l'architecture logicielle, développement et la qualité.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Je code depuis 2004 avec plus de 10 ans d'expérience dans le développement de logiciels à l'échelle de l'entreprise.\
 &nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;J'habite au Brésil avec ma charmante épouse :two_hearts:, Kali :service_dog: et Maia :service_dog:.
 
