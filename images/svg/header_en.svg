@@ -198,10 +198,10 @@ g.typingUnderline rect {
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="64" font-family="Helvetica" font-size=".12em" fill="white"
+<text x="54" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
-      Leadership, Software Architecture, Development, Science &amp; Technology.
+      Leadership, Software Architecture, Science &amp; Technology.
   </textPath>
 </text>
 
